@@ -70,8 +70,7 @@ const SELECT_USERS_BY_ID = 'SELECT * FROM USERS WHERE ID = ?';
 ### Tips:
  - If variable declared and not using in ur project. 
  - Please remove those variables why because we are unnessary wasting our memory.
- - In java there is garbase collection is there if you not using declared variable.
- - the garbase collection clean those variables.
+ - In java there is garbase collection is there and it will clean those variables.
  - For javascript you only clean that variable.
 
 ### In JavaScript
